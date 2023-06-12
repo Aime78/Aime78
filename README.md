@@ -4,7 +4,7 @@
 ### About
 
 -  **I am :** Software engineer :zap: | Open-Source Enthusiast :fire:	
--  **Languages :** JavaScript, Tailwind, TypeScript, React
+-  **Languages :** JavaScript, Tailwind, TypeScript, React, Material UI
 -  **Hobbies :** Books & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
